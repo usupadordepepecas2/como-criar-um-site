@@ -7,6 +7,6 @@
     align-items: center;
 }
 .titulo-corpo{
-    display:center;
+    display:flex;
     justify-content: center;
 }

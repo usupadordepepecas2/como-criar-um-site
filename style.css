@@ -6,3 +6,7 @@
     display: flex;
     align-items: center;
 }
+.titulo-corpo{
+    display:center;
+    justify-content: center;
+}
